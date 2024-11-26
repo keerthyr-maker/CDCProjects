@@ -1,4 +1,4 @@
-Title of Project: Analyzing & Comparing Water Sanitation and Hygiene (WASH) Access in Refugee Camps and Non-Refugee Regions in Tanzania and Rwanda 
+## Analyzing & Comparing Water Sanitation and Hygiene (WASH) Access in Refugee Camps and Non-Refugee Regions in Tanzania and Rwanda 
 
 ## Background
 
