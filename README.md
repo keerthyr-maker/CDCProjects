@@ -14,6 +14,8 @@ in the final poster.
 
 CDC Datas:
 - Nduta: Tanzania Refugee Camp 1 Data
+- Nyagurusu Burundi: Tanzania Refugee Camp 2 Data
+- TZHR82FL.DTA: Tanzania Overall Metropolitan Data
 
 CDCScript:
 - PresenceofSoapCDC: Complete Code showing Data Wrangling, Analysis, and Visualization of the Sanitation Access Variable:
