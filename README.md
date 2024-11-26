@@ -38,6 +38,7 @@ Sources of Non Drinking Water and Frequency of Washing Hands
 ## Areas of Tanzania
 
 Refugee Camps: Nduta and Nyagurusu
+
 Urban Areas:
 - Presence of Soap Script: Geita and Kigoma
 - Water Hygiene Script: All Areas without Missing Values
